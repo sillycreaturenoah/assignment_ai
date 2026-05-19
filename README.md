@@ -9,21 +9,29 @@ log in with username and password.
 
 have a profile page with a profile picture and username color.
 there will also be an option to add a bio
-the profile will also display the blogs you posted, the forums you made, and the chatrooms you made
+the profile will also display the blog posts you made, the forums you made, and the chatrooms you made
 
 private and public chatrooms
 ability to create, share, edit, and chat in chatrooms
+ability to add title to chatrooms
+ability to add tags to chatrooms, for example #casual, #community, etc
+
+there will be an option to search chatrooms, both trough title and tags.
+^ same counts for blogs
 
 blogs are always public.
 ability to create, like, share, edit, and reblog blog posts
-ability to comment on blogs
+ability to comment on blog posts
+ability to add tags under blog posts
 
-2 seperate tabs. one to browse blogs, and one to browse chatrooms.
+ability to delete blogs and chatrooms
+
+2 seperate tabs. one to browse blog posts, and one to browse chatrooms.
 chatrooms can be saved. they will appear in a tab called ''saved chatrooms''
-blogs can be liked. they will appear in a tab called ''liked blogs'' (private or public)
-blogs can be reblogged, they will appear in a tab called ''reblogs''
-blogs and chatrooms you made yourself will just be displayed on your profile under ''posts''
-^ there will be the ability to search someone's profile for either blogs or chatrooms trough a filtering system
+blog posts can be liked. they will appear in a tab called ''liked blogs'' (private or public)
+blog posts can be reblogged, they will appear in a tab called ''reblogs''
+blog posts and chatrooms you made yourself will just be displayed on your profile under ''posts''
+^ there will be the ability to search someone's profile for either blog posts or chatrooms trough a filtering system
 
 pastel-ish space inspired theming
 dark and light mode
@@ -34,4 +42,7 @@ the impact of ai on the environment, the impact of ai on jobs, other etical conc
 filter offensive words/slurs
 don't allow usernames that include filtered terms.
 
+ability to block users
+ability to hide chatrooms from your feed without blocking the poster
 
+ability to search users by username
